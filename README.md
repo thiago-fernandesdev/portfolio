@@ -25,7 +25,7 @@ Desenvolvedor Full Stack apaixonado por criar **aplicações web modernas e func
 ![Preview do Site de Casamento](https://via.placeholder.com/600x300.png?text=Site+de+Casamento)  
 - Projeto de site de casamento completo, responsivo e informativo.  
 - Tecnologias: HTML, CSS, JavaScript  
-- Link do projeto: [Acessar Portfólio](https://portfolio.vercel.app)
+- Link do projeto: [Acessar Portfólio](https://portfolio-thiagofernandes.vercel.app/)
 
 *(Você pode substituir a imagem acima pelo print real do seu site.)*
 
