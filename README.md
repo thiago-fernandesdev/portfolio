@@ -1,8 +1,8 @@
 # Thiago Fernandes da Costa Vicente – Desenvolvedor Full Stack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@thiagofernandesdev-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiago-fernandesdev/)  
-[![GitHub followers](https://img.shields.io/github/followers/thiago-fernandesdev?label=Follow&style=for-the-badge)](https://github.com/thiago-fernandesdev)
-[![Portfólio](https://img.shields.io/badge/Portfólio-online-brightgreen?style=for-the-badge&logo=vercel)](https://portfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-thiago--fernandesdev-black?style=for-the-badge&logo=github)](https://github.com/thiago-fernandesdev)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-online-brightgreen?style=for-the-badge&logo=vercel)](https://portfolio-thiagofernandes.vercel.app/)
 
 ---
 
